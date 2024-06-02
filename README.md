@@ -60,5 +60,6 @@ MediaPipe:포즈 인식 및 세그멘테이션 마스크 생성에 사용된 Goo
 MobileNet-SSD 모델: 객체 감지에 사용된 모델입니다. 특정 GitHub 저장소에서 다운로드했습니다. (https://github.com/chuanqi305/MobileNet-SSD)<br/>
 JavaScript와 HTML: 웹캠을 통해 사진을 캡처하는 부분은 JavaScript와 HTML을 사용하여 구현되었습니다.<br/>
 Google Colab: google.colab.patches 모듈을 사용해 JavaScript 코드를 실행하여 웹캠을 통해 이미지를 캡처합니다. <br/>
+Chat GPTdhk Claude: 코드 생성 및 사진 생성 과정에서 많이 사용되었습니다.
 
 
