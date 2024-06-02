@@ -62,4 +62,4 @@ JavaScript와 HTML: 웹캠을 통해 사진을 캡처하는 부분은 JavaScript
 Google Colab: google.colab.patches 모듈을 사용해 JavaScript 코드를 실행하여 웹캠을 통해 이미지를 캡처합니다. <br/>
 Chat GPTdhk Claude: 코드 생성 및 사진 생성 과정에서 많이 사용되었습니다.
 
-
+모든 작업을 Colab을 이용해서 진행했습니다:https://colab.research.google.com/drive/1o771NeYDXftG3OXEVE1-s3JjLI7eFuKm?usp=sharing
