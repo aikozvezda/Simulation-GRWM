@@ -70,7 +70,7 @@ shape_predictor_68_face_landmarks.dat.bz2 파일은 Dlib 라이브러리에서 �
 아래 코드에서 파일 업로드를 해야 합니다.
 ![image](https://github.com/aikozvezda/Simulation-GRWM/assets/144213771/7f09400b-c778-434d-b104-7639ef7a96b1)
 
-밑에 다운로드 URL 주소가 있습니다. 이 파일을 업로드 하시면 됩니다. (다운로드 안하면 동작 안함)
+밑에 다운로드 URL 주소가 있습니다. 이 파일을 업로드 하시면 됩니다. **(다운로드 안하면 동작 안함)**
 https://github.com/italojs/facial-landmarks-recognition/raw/master/shape_predictor_68_face_landmarks.dat
 
 이 프로젝트를 하면서 정말 재미있고 기억에 오래 남을 좋은 시간을 보냈습니다. 결과가 생각보다 부실하고 웃깁니다.
