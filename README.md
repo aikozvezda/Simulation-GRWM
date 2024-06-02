@@ -43,7 +43,9 @@ MediaPipe Pose 모델을 사용하여 이미지에서 사람을 분리합니다.
 ![다운로드 (2)](https://github.com/aikozvezda/Simulation-GRWM/assets/144213771/7c631f24-c54c-4029-82ad-b7dc05b12a6d)
 ![다운로드 (1)](https://github.com/aikozvezda/Simulation-GRWM/assets/144213771/b331d24c-4715-4eaf-afb5-b0075c514115)
 ![다운로드 (15)](https://github.com/aikozvezda/Simulation-GRWM/assets/144213771/66527a7e-2987-465c-a040-4d1dc9d478cc)
-![다운로드 (14)](https://github.com/aikozvezda/Simulation-GRWM/assets/144213771/c3f3ef05-7b0a-4464-86b2-ef9766cc605d)<br/><br/>
+![다운로드 (14)](https://github.com/aikozvezda/Simulation-GRWM/assets/144213771/c3f3ef05-7b0a-4464-86b2-ef9766cc605d)
+![다운로드 (16)](https://github.com/aikozvezda/Simulation-GRWM/assets/144213771/9ade0c3c-ffb6-48cb-84e8-01e5c7b4dcd5)
+<br/><br/>
 
 
 주요 코드 설명:<br/>
@@ -63,3 +65,5 @@ Google Colab: google.colab.patches 모듈을 사용해 JavaScript 코드를 실�
 Chat GPTdhk Claude: 코드 생성 및 사진 생성 과정에서 많이 사용되었습니다.
 
 모든 작업을 Colab을 이용해서 진행했습니다:https://colab.research.google.com/drive/1o771NeYDXftG3OXEVE1-s3JjLI7eFuKm?usp=sharing
+
+이 프로젝트를 하면서 정말 재미있고 기억에 오래 남을 좋은 시간을 보냈습니다. 결과가 생각보다 부실하고 웃깁니다.
