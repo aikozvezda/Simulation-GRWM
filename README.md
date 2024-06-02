@@ -65,5 +65,6 @@ Google Colab: google.colab.patches 모듈을 사용해 JavaScript 코드를 실�
 Chat GPT 및 Claude: 코드 생성 및 사진 생성 과정에서 많이 사용되었습니다.
 
 모든 작업을 Colab을 이용해서 진행했습니다:https://colab.research.google.com/drive/1o771NeYDXftG3OXEVE1-s3JjLI7eFuKm?usp=sharing
+shape_predictor_68_face_landmarks.dat.bz2 파일은 Dlib 라이브러리에서 제공하는 얼굴 랜드마크 예측 모델 파일입니다. 그래서 Colab에서 실행시킬 때 이 파일을 다운 받아서 사용하시면 됩니다. 
 
 이 프로젝트를 하면서 정말 재미있고 기억에 오래 남을 좋은 시간을 보냈습니다. 결과가 생각보다 부실하고 웃깁니다.
